@@ -1,0 +1,4 @@
+.DS_Store
+.vagrant
+cricket-rr/node_modules
+data/converted
